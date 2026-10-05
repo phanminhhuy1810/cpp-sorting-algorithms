@@ -2,8 +2,6 @@
 
 My first GitHub project: a small C++ learning exercise with 11 sorting and array algorithm demonstrations. The program runs each example on fixed data and prints intermediate steps and results.
 
-The code was developed with AI assistance while learning the algorithms.
-
 ## Algorithms
 
 | Algorithm | Purpose | Time complexity |
